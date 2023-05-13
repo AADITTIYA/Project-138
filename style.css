@@ -1,0 +1,39 @@
+.heading {
+    margin-top: 0px;
+    font-size: 30px;
+    font-style: italic;
+    margin-bottom: 5px;
+    width: 100%;
+    background-color: black;
+    color: blue;
+    height: 50px;
+    text-align: center;
+}
+
+.instructions {
+    background-color: black;
+    color: blue;
+    font-size: 25px;
+    float: right;
+
+}
+
+.play {
+    font-size: 25px;
+    font-style: italic;
+    background-color: black;
+    color: blue;
+}
+
+#canvas {
+    margin-top: 10px;
+}
+
+#status {
+    background-color: black;
+    color: blue;
+    width: fit-content;
+    border-style: solid;
+    border-color: aqua;
+    border-width: 5px;
+}
